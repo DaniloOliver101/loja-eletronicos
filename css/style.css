@@ -1,0 +1,8 @@
+/**/
+*{
+    margin: 0;
+    padding: 0
+}
+body{ font-family: Arial; font-size: 16px; color: #333;}
+header{ height: 80px; background-color: #262626; }
+footer{ height: 50px; background-color: #44b874; }
